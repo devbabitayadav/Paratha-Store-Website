@@ -4,6 +4,7 @@ import BurgerImg from "../assets/images/burger_slide-1.png"
 // import Pizaa from "../assets/images/Pizaa"
 import { Link } from "react-router-dom";
 
+
 const HeroSection = () => {
   return (
     <section className="home" id="home">
